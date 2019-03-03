@@ -1,0 +1,16 @@
+kmeans_pca_spam: 397.686 seconds
+kmeans_pca_pima: 145.271 seconds
+kmeans_ica_spam: 354.628 seconds
+kmeans_ica_pima: 193.360 seconds
+kmeans_rp_spam: 237.836 seconds
+kmeans_rp_pima: 100.707 seconds
+kmeans_lda_spam: 611.214 seconds
+kmeans_lda_pima: 102.566 seconds
+gmm_spam: 14.874 seconds
+gmm_pima: 2.598 seconds
+gmm_spam: 11.918 seconds
+gmm_pima: 4.144 seconds
+gmm_spam: 9.705 seconds
+gmm_pima: 8.900 seconds
+gmm_spam: 4.629 seconds
+gmm_pima: 2.448 seconds

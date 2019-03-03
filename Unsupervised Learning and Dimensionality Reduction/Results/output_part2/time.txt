@@ -1,0 +1,8 @@
+pca_spam: 332.032 seconds
+pca_pima: 4.329 seconds
+ica_spam: 1665.420 seconds
+ica_pima: 41.609 seconds
+rp_spam: 212.356 seconds
+rp_pima: 3.425 seconds
+lda_pima: 0.870 seconds
+lda_spam: 4.012 seconds

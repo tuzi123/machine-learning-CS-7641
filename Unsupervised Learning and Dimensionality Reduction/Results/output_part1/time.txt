@@ -1,0 +1,4 @@
+gmm_spam: 104.457 seconds
+gmm_pima: 6.381 seconds
+kmeans_spam: 396.640 seconds
+kmeans_pima: 153.400 seconds

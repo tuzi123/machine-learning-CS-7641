@@ -1,0 +1,5 @@
+nn_pca_spam: 49.531 seconds
+nn_ica_spam: 46.855 seconds
+nn_rp_spam: 123.271 seconds
+nn_lda_spam: 151.195 seconds
+nn_spam_orig: 321.853 seconds
